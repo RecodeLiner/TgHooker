@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TGsHooker</string>
+    <string name="xposed_description">It is simple module for me</string>
+    <string-array name="scope">
+        <item>org.telegram.messenger</item>
+        <item>org.telegram.messenger.beta</item>
+        <item>org.telegram.messenger.web</item>
+        <item>nekox.messenger</item>
+        <item>tw.nekomimi.nekogram</item>
+        <item>tw.nekomimi.nekogram.beta</item>
+        <item>ua.itaysonlab.messenger</item>
+        <item>org.telegram.plus</item>
+        <item>org.thunderdog.challegram</item>
+    </string-array>
+</resources>
